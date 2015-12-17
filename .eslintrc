@@ -1,6 +1,7 @@
 {
   "extends": "eslint-config-airbnb",
   "rules": {
-    "prefer-const": 0
+    "no-console": 0,
+    "func-names": 0
   }
 }
